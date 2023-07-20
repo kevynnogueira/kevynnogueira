@@ -1,6 +1,6 @@
 ### Olá! 👋 Kevyn aqui :)
 
-Olá! Sou entusiasta do setor elétrico e adoro trabalhar com dados e estruturar processos e projetos. No dia a dia, atuo principalmente na construção de estudos que contribuam para melhores tomadas de decisão e estratégias.
+Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar processos e projetos. No dia a dia, atuo principalmente na construção de estudos que contribuam para melhores tomadas de decisão e estratégias.
 
 - 👨🏾‍🎓 Engenheiro Mecânico com especialização em Gerência de Projetos
 - 👨🏾‍💻 Analista de Desenvolvimento de Rede na [Enel Brasil](https://www.enel.com.br/)
