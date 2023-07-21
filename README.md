@@ -9,7 +9,7 @@ Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar pro
 <br>
 📚 Meu perfil é multidisciplinar e gosto bastante de aprender assuntos novos. Estudo de forma autodidata sobre pesquisa operacional, modelagem matemática e dados; e estudo sobre mercado e regulação do setor elétrico na Head Energia.
 
-##### 🖥️ Conhecimento em:
+##### 🖥️ Conhecimento em ferramentas:
 
 <div style = "display: inline">
   <img src="https://icon-library.com/images/microsoft-office-365-icon/microsoft-office-365-icon-15.jpg" width = "50"/>
