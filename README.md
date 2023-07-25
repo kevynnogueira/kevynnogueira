@@ -9,7 +9,7 @@ Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar pro
 <br>
 📚 Meu perfil é multidisciplinar e gosto bastante de aprender assuntos novos. Estudo de forma autodidata sobre pesquisa operacional, modelagem matemática e dados; e estudo sobre mercado e regulação do setor elétrico na Head Energia.
 
-##### 🖥️ Conhecimento em ferramentas:
+#### 🖥️ Conhecimento em ferramentas:
 
 <div style = "display: inline">
   <img src="https://icon-library.com/images/microsoft-office-365-icon/microsoft-office-365-icon-15.jpg" width = "50"/>
@@ -19,6 +19,8 @@ Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar pro
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height = "50"/>
 </div>
 
+#### 🗂️ Portfólio:
+- [Análises](https://github.com/kevynnogueira/Analises/tree/main)
 
 <!--
 **kevynnogueira/kevynnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
