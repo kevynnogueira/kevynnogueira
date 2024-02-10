@@ -4,7 +4,7 @@ Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar pro
 
 - 👨🏾‍🎓 Engenheiro Mecânico com especialização em Gerência de Projetos
 - 👨🏾‍💻 Analista de Desenvolvimento de Rede na [Enel Brasil](https://www.enel.com.br/)
-- 💡 Responsável por Inovação na [EnergyC](https://energyc.com.br/)
+- 💡 Voluntário em gestão de inovação na [EnergyC](https://energyc.com.br/)
 
 <br>
 📚 Meu perfil é multidisciplinar e gosto bastante de aprender assuntos novos. Estudo de forma autodidata sobre pesquisa operacional, modelagem matemática e dados; e estudo sobre mercado e regulação do setor elétrico na Head Energia.
