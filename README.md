@@ -19,8 +19,10 @@ Sou apaixonado pelo setor elétrico e adoro trabalhar com dados e estruturar pro
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height = "50"/>
 </div>
 
+<!--
 #### 🗂️ Portfólio:
 - [Análises](https://github.com/kevynnogueira/Analises/tree/main)
+-->
 
 <!--
 **kevynnogueira/kevynnogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
