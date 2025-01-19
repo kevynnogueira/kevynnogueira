@@ -2,10 +2,6 @@
 
 Estou sempre buscando gerar cada vez mais valor no setor de energia e realizo isso desenvolvendo estudos de forma orientada a dados, assim como implantando processos, projetos e promovendo a inovação.
 
-- 👨🏾‍🎓 Engenheiro Mecânico com especialização em Gerência de Projetos
-- 👨🏾‍💻 Analista de Desenvolvimento de Rede na [Enel Brasil](https://www.enel.com.br/)
-- 💡 Voluntário em gestão de inovação na [EnergyC](https://energyc.com.br/)
-
 <br>
 📚 Meu perfil é multidisciplinar e gosto bastante de aprender assuntos novos. Estudo principalmente sobre pesquisa operacional, modelagem matemática, gestão de dados, e sobre mercado e regulação do setor elétrico. 
 
