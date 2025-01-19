@@ -3,7 +3,7 @@
 Olá! Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e tenho experiência em análise de dados e de negócios em empresas do setor de energia, nas áreas de operação, manutenção e planejamento.
 
 <br>
-📚 Meu perfil é multidisciplinar e gosto bastante de aprender assuntos novos. Estudo principalmente sobre pesquisa operacional, modelagem matemática, gestão de dados, e sobre mercado e regulação do setor elétrico. 
+📚 Tenho perfil multidisciplinar e gosto bastante de aprender assuntos novos. Estudo principalmente sobre economia da energia, planejamento energético, modelagem matemática e gestão de dados.
 
 #### 🖥️ Conhecimento em ferramentas:
 
