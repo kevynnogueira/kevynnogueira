@@ -4,10 +4,10 @@ Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e ten
 
 <br>
 📚 Tenho perfil multidisciplinar e gosto bastante de aprender assuntos novos. Estudo principalmente sobre economia da energia, planejamento energético, modelagem matemática e gestão de dados.
-
+<!--
 #### 🖥️ Conhecimento em ferramentas:
 
-<!--
+
 <div style = "display: inline">
   <img src="https://icon-library.com/images/microsoft-office-365-icon/microsoft-office-365-icon-15.jpg" width = "50"/>
   <img src="https://d2j6dbq0eux0bg.cloudfront.net/images/10832271/1510966735.jpg" width = "50"/>
