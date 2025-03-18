@@ -7,6 +7,7 @@ Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e ten
 
 #### 🖥️ Conhecimento em ferramentas:
 
+<!--
 <div style = "display: inline">
   <img src="https://icon-library.com/images/microsoft-office-365-icon/microsoft-office-365-icon-15.jpg" width = "50"/>
   <img src="https://d2j6dbq0eux0bg.cloudfront.net/images/10832271/1510966735.jpg" width = "50"/>
@@ -15,7 +16,6 @@ Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e ten
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height = "50"/>
 </div>
 
-<!--
 #### 🗂️ Portfólio:
 - [Análises](https://github.com/kevynnogueira/Analises/tree/main)
 -->
