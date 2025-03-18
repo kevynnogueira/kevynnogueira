@@ -1,6 +1,6 @@
 ### Olá! 👋 Kevyn aqui :)
 
-Olá! Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e tenho experiência em análise de dados e de negócios em empresas do setor de energia, nas áreas de operação, manutenção e planejamento.
+Sou formado em Engenharia Mecânica, especializado em Gestão de Projetos, e tenho experiência em análise de dados e de negócios em empresas do setor de energia, nas áreas de operação, manutenção e planejamento.
 
 <br>
 📚 Tenho perfil multidisciplinar e gosto bastante de aprender assuntos novos. Estudo principalmente sobre economia da energia, planejamento energético, modelagem matemática e gestão de dados.
